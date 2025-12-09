@@ -1,4 +1,3 @@
-```markdown
 # Colibri_GW_Update
 
 This repository contains an updated and reorganized version of the COLIBRI_GW pipeline, designed to perform cosmological forecasts using gravitational-wave standard sirens, galaxy catalogues, and modified gravity extensions. The folder includes Python modules, utility functions, and notebooks used for data processing, theoretical predictions, and parameter inference.
@@ -123,9 +122,3 @@ MIT License (or another license of your choice).
 
 If you use this updated pipeline in academic work, please cite the original COLIBRI_GW project and relevant CLASS/hi_class papers.
 
-```
-
----
-
-Let me know if you want a shorter, more formal, or more technical version.
-```
