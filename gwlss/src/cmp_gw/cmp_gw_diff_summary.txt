@@ -1,0 +1,17 @@
+bin 00: max|Δ/legacy| = 1.926076e-05
+bin 01: max|Δ/legacy| = 1.915036e-05
+bin 02: max|Δ/legacy| = 1.958549e-05
+bin 03: max|Δ/legacy| = 2.018296e-05
+bin 04: max|Δ/legacy| = 2.085919e-05
+bin 05: max|Δ/legacy| = 2.158485e-05
+bin 06: max|Δ/legacy| = 2.234842e-05
+bin 07: max|Δ/legacy| = 2.441771e-05
+bin 08: max|Δ/legacy| = 2.633463e-05
+bin 09: max|Δ/legacy| = 2.699062e-05
+bin 10: max|Δ/legacy| = 2.865110e-05
+bin 11: max|Δ/legacy| = 3.097124e-05
+bin 12: max|Δ/legacy| = 4.037608e-05
+bin 13: max|Δ/legacy| = 4.362499e-05
+bin 14: max|Δ/legacy| = 4.677395e-05
+bin 15: max|Δ/legacy| = 4.974397e-05
+GLOBAL max|Δ/legacy| = 4.974397e-05

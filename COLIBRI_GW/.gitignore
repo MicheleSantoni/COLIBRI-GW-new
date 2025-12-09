@@ -1,0 +1,14 @@
+colibri/*.pyc
+colibri/*.py~
+colibri/ZZZ*
+colibri/__pycache__/
+notebooks/.ipynb*
+doc/build
+colibri/perturbation_theory.py
+tests/test_spt.py
+tests/test_temporary.py
+build/
+dist/
+colibri_cosmology.egg-info/
+.pypirc
+to_do.txt
